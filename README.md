@@ -1,6 +1,8 @@
 # analise-sentimentos
 Projeto Análise de Sentimentos com Language Studio no Azure AI
 
+—-----------------------------------------------
+
 Prática 01 - No IA do Azure, em Speech Studio
 - a partir de um áudio, se transcreve o conteúdo.
 - a partir de um texto, se cria a narração.
@@ -11,7 +13,8 @@ Cenários comuns:
 - Tente legendar com a conversão de fala em texto
 - transcrição e análise de call center com o Fala e Idioma do Azure
 
-—-------------------------------------------------------------------------------------------------------------
+—-----------------------------------------------
+
 Prática 02 - Conhecendo o Language Studio (Processamento de Linguagem Natural)
 - Na opção Create a resource, clica-se em AI + Machine Learning
 - Escolha de recursos adicionais (additional features)
@@ -20,3 +23,5 @@ Prática 02 - Conhecendo o Language Studio (Processamento de Linguagem Natural)
 - Clica em criar novo recurso, classificação de texto, analisar texto e opiniões. 
 - Sabendo que o objetivo é saber quantas pessoas estão felizes com o atendimento da empresa.
 - Então se usa um texto de opinião de cliente para a avaliação.
+  
+—-----------------------------------------------
